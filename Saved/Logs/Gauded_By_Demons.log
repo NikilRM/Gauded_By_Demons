@@ -1463,3 +1463,178 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.08.26-19.30.30:175][615]LogSavePackage: Moving '../../../../../../Unreal Project/Gauded_By_Demons/Saved/L1_Character932FFCB04D9FF6E464D9B697E6F081EE.tmp' to '../../../../../../Unreal Project/Gauded_By_Demons/Content/Game_BP/Level_1/L1_Character.uasset'
 [2022.08.26-19.30.30:193][615]AssetCheck: New page: Asset Save: L1_Character
 [2022.08.26-19.30.30:193][615]LogContentValidation: Display: Validating Blueprint /Game/Game_BP/Level_1/L1_Character.L1_Character
+[2022.08.26-19.43.32:631][749]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.08.26-19.45.02:404][909]LogSlate: Window 'Project Settings' being destroyed
+[2022.08.26-19.45.02:409][909]LogSlate: Window 'Project Settings' being destroyed
+[2022.08.26-19.45.04:045][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L1" FILE="../../../../../../Unreal Project/Gauded_By_Demons/Content/Maps/L1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.26-19.45.04:080][  3]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2022.08.26-19.45.04:089][  3]LogSavePackage: Moving '../../../../../../Unreal Project/Gauded_By_Demons/Saved/L19E7F9DF34A16A0FC5ED22F8BDC460E81.tmp' to '../../../../../../Unreal Project/Gauded_By_Demons/Content/Maps/L1.umap'
+[2022.08.26-19.45.04:098][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L1_BuiltData" FILE="../../../../../../Unreal Project/Gauded_By_Demons/Content/Maps/L1_BuiltData.uasset" SILENT=true
+[2022.08.26-19.45.04:115][  3]LogSavePackage: Moving '../../../../../../Unreal Project/Gauded_By_Demons/Saved/L1_BuiltData880FE9144A0AA9A4049189A07FF98CF2.tmp' to '../../../../../../Unreal Project/Gauded_By_Demons/Content/Maps/L1_BuiltData.uasset'
+[2022.08.26-19.45.04:134][  3]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.26-19.45.04:134][  3]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/L1_BuiltData.L1_BuiltData
+[2022.08.26-19.45.04:134][  3]LogContentValidation: Display: Validating World /Game/Maps/L1.L1
+[2022.08.26-19.45.04:377][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L1" FILE="../../../../../../Unreal Project/Gauded_By_Demons/Content/Maps/L1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.26-19.45.04:406][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.08.26-19.45.04:414][ 17]LogSavePackage: Moving '../../../../../../Unreal Project/Gauded_By_Demons/Saved/L1ECD1A55F40C51AAE5BC2FB8357119C6B.tmp' to '../../../../../../Unreal Project/Gauded_By_Demons/Content/Maps/L1.umap'
+[2022.08.26-19.45.04:419][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L1_BuiltData" FILE="../../../../../../Unreal Project/Gauded_By_Demons/Content/Maps/L1_BuiltData.uasset" SILENT=true
+[2022.08.26-19.45.04:436][ 17]LogSavePackage: Moving '../../../../../../Unreal Project/Gauded_By_Demons/Saved/L1_BuiltData783D6B6A4F00DAA0579001B11E130B68.tmp' to '../../../../../../Unreal Project/Gauded_By_Demons/Content/Maps/L1_BuiltData.uasset'
+[2022.08.26-19.45.04:454][ 17]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.26-19.45.04:454][ 17]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/L1_BuiltData.L1_BuiltData
+[2022.08.26-19.45.04:454][ 17]LogContentValidation: Display: Validating World /Game/Maps/L1.L1
+[2022.08.26-19.45.35:899][687]LogSlate: Took 0.004080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.08.26-19.46.07:190][387]BlueprintLog: New page: Compile BPC_Movement
+[2022.08.26-19.46.07:256][387]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.08.26-19.48.06:851][465]BlueprintLog: New page: Compile BPC_Movement
+[2022.08.26-19.48.06:906][465]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2022.08.26-19.48.55:770][997]BlueprintLog: New page: Compile BPC_Movement
+[2022.08.26-19.48.55:824][997]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2022.08.26-19.49.36:945][287]LogSavePackage: Moving '../../../../../../Unreal Project/Gauded_By_Demons/Saved/BPC_Movement98D50ECF484A8F4F42DAB0BEE6D15BDB.tmp' to '../../../../../../Unreal Project/Gauded_By_Demons/Content/Blueprints/BluePrintComponent/BPC_Movement.uasset'
+[2022.08.26-19.49.36:964][287]AssetCheck: New page: Asset Save: BPC_Movement
+[2022.08.26-19.49.36:964][287]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BluePrintComponent/BPC_Movement.BPC_Movement
+[2022.08.26-19.49.38:960][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_BP/Level_1/L1_Character" FILE="../../../../../../Unreal Project/Gauded_By_Demons/Content/Game_BP/Level_1/L1_Character.uasset" SILENT=true
+[2022.08.26-19.49.38:984][396]LogSavePackage: Moving '../../../../../../Unreal Project/Gauded_By_Demons/Saved/L1_Character29667BE04B88404EF22B918A2B1BDFAF.tmp' to '../../../../../../Unreal Project/Gauded_By_Demons/Content/Game_BP/Level_1/L1_Character.uasset'
+[2022.08.26-19.49.39:000][396]AssetCheck: New page: Asset Save: L1_Character
+[2022.08.26-19.49.39:000][396]LogContentValidation: Display: Validating Blueprint /Game/Game_BP/Level_1/L1_Character.L1_Character
+[2022.08.26-19.52.29:288][814]LogEditorTransaction: Undo Mouse Drag
+[2022.08.26-19.52.29:667][829]LogEditorTransaction: Undo Mouse Drag
+[2022.08.26-19.52.30:034][847]LogEditorTransaction: Undo Mouse Drag
+[2022.08.26-19.53.47:820][829]BlueprintLog: New page: Compile L1_Character
+[2022.08.26-19.53.47:879][829]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2022.08.26-19.53.48:372][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_BP/Level_1/L1_Character" FILE="../../../../../../Unreal Project/Gauded_By_Demons/Content/Game_BP/Level_1/L1_Character.uasset" SILENT=true
+[2022.08.26-19.53.48:396][854]LogSavePackage: Moving '../../../../../../Unreal Project/Gauded_By_Demons/Saved/L1_CharacterE1F5FD41439DACD8142D628080D77434.tmp' to '../../../../../../Unreal Project/Gauded_By_Demons/Content/Game_BP/Level_1/L1_Character.uasset'
+[2022.08.26-19.53.48:412][854]AssetCheck: New page: Asset Save: L1_Character
+[2022.08.26-19.53.48:412][854]LogContentValidation: Display: Validating Blueprint /Game/Game_BP/Level_1/L1_Character.L1_Character
+[2022.08.26-19.57.16:356][ 15]BlueprintLog: New page: Compile L1_Character
+[2022.08.26-19.57.16:419][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2022.08.26-19.57.16:879][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_BP/Level_1/L1_Character" FILE="../../../../../../Unreal Project/Gauded_By_Demons/Content/Game_BP/Level_1/L1_Character.uasset" SILENT=true
+[2022.08.26-19.57.16:910][ 36]LogSavePackage: Moving '../../../../../../Unreal Project/Gauded_By_Demons/Saved/L1_Character53730E464D8EF92BC5F581AE55D58D73.tmp' to '../../../../../../Unreal Project/Gauded_By_Demons/Content/Game_BP/Level_1/L1_Character.uasset'
+[2022.08.26-19.57.16:932][ 36]AssetCheck: New page: Asset Save: L1_Character
+[2022.08.26-19.57.16:932][ 36]LogContentValidation: Display: Validating Blueprint /Game/Game_BP/Level_1/L1_Character.L1_Character
+[2022.08.26-19.59.37:875][633]BlueprintLog: New page: Compile BPC_Movement
+[2022.08.26-19.59.37:943][633]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2022.08.26-19.59.38:575][661]LogSavePackage: Moving '../../../../../../Unreal Project/Gauded_By_Demons/Saved/BPC_Movement6A3EB9B8425D6F7139DBA290F1219B59.tmp' to '../../../../../../Unreal Project/Gauded_By_Demons/Content/Blueprints/BluePrintComponent/BPC_Movement.uasset'
+[2022.08.26-19.59.38:593][661]AssetCheck: New page: Asset Save: BPC_Movement
+[2022.08.26-19.59.38:594][661]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BluePrintComponent/BPC_Movement.BPC_Movement
+[2022.08.26-20.00.23:027][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_BP/Level_1/L1_Character" FILE="../../../../../../Unreal Project/Gauded_By_Demons/Content/Game_BP/Level_1/L1_Character.uasset" SILENT=true
+[2022.08.26-20.00.23:053][277]LogSavePackage: Moving '../../../../../../Unreal Project/Gauded_By_Demons/Saved/L1_Character8361ACD94CC7208517DB8A9B589552D7.tmp' to '../../../../../../Unreal Project/Gauded_By_Demons/Content/Game_BP/Level_1/L1_Character.uasset'
+[2022.08.26-20.00.23:071][277]AssetCheck: New page: Asset Save: L1_Character
+[2022.08.26-20.00.23:071][277]LogContentValidation: Display: Validating Blueprint /Game/Game_BP/Level_1/L1_Character.L1_Character
+[2022.08.26-20.00.23:333][292]BlueprintLog: New page: Compile L1_Character
+[2022.08.26-20.00.23:404][292]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2022.08.26-20.00.48:127][444]BlueprintLog: New page: Compile BPC_Movement
+[2022.08.26-20.00.48:191][444]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2022.08.26-20.01.34:817][837]BlueprintLog: New page: Compile BPC_Movement
+[2022.08.26-20.01.34:834][837]LogBlueprint: Warning: [AssetLog] C:\Unreal Project\Gauded_By_Demons\Content\Blueprints\BluePrintComponent\BPC_Movement.uasset: [Compiler] Could not find the function 'LengthenPlayerHeight' called from  Lengthen Player Height
+[2022.08.26-20.01.34:885][837]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2022.08.26-20.02.11:090][126]BlueprintLog: New page: Compile BPC_Movement
+[2022.08.26-20.02.11:098][126]LogBlueprint: Warning: [AssetLog] C:\Unreal Project\Gauded_By_Demons\Content\Blueprints\BluePrintComponent\BPC_Movement.uasset: [Compiler] Could not find the function 'LengthenPlayerHeight' called from  Lengthen Player Height
+[2022.08.26-20.02.11:148][126]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2022.08.26-20.02.40:620][174]BlueprintLog: New page: Compile L1_Character
+[2022.08.26-20.02.40:688][174]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2022.08.26-20.02.41:266][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_BP/Level_1/L1_Character" FILE="../../../../../../Unreal Project/Gauded_By_Demons/Content/Game_BP/Level_1/L1_Character.uasset" SILENT=true
+[2022.08.26-20.02.41:291][202]LogSavePackage: Moving '../../../../../../Unreal Project/Gauded_By_Demons/Saved/L1_Character471BD5DE475770D8F74FD985462CF25D.tmp' to '../../../../../../Unreal Project/Gauded_By_Demons/Content/Game_BP/Level_1/L1_Character.uasset'
+[2022.08.26-20.02.41:307][202]AssetCheck: New page: Asset Save: L1_Character
+[2022.08.26-20.02.41:308][202]LogContentValidation: Display: Validating Blueprint /Game/Game_BP/Level_1/L1_Character.L1_Character
+[2022.08.26-20.02.42:620][269]BlueprintLog: New page: Compile BPC_Movement
+[2022.08.26-20.02.42:684][269]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.08.26-20.02.43:497][308]LogSavePackage: Moving '../../../../../../Unreal Project/Gauded_By_Demons/Saved/BPC_Movement87FAC58F467E8B76AF18A4ABD5A8AF44.tmp' to '../../../../../../Unreal Project/Gauded_By_Demons/Content/Blueprints/BluePrintComponent/BPC_Movement.uasset'
+[2022.08.26-20.02.43:514][308]AssetCheck: New page: Asset Save: BPC_Movement
+[2022.08.26-20.02.43:514][308]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BluePrintComponent/BPC_Movement.BPC_Movement
+[2022.08.26-20.03.56:790][955]BlueprintLog: New page: Compile L1_Character
+[2022.08.26-20.03.56:860][955]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2022.08.26-20.03.57:356][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_BP/Level_1/L1_Character" FILE="../../../../../../Unreal Project/Gauded_By_Demons/Content/Game_BP/Level_1/L1_Character.uasset" SILENT=true
+[2022.08.26-20.03.57:382][978]LogSavePackage: Moving '../../../../../../Unreal Project/Gauded_By_Demons/Saved/L1_CharacterE1951C7745941F862D3BFA938D603358.tmp' to '../../../../../../Unreal Project/Gauded_By_Demons/Content/Game_BP/Level_1/L1_Character.uasset'
+[2022.08.26-20.03.57:399][978]AssetCheck: New page: Asset Save: L1_Character
+[2022.08.26-20.03.57:399][978]LogContentValidation: Display: Validating Blueprint /Game/Game_BP/Level_1/L1_Character.L1_Character
+[2022.08.26-20.05.56:661][728]BlueprintLog: New page: Compile L1_Character
+[2022.08.26-20.05.56:734][728]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2022.08.26-20.05.57:562][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_BP/Level_1/L1_Character" FILE="../../../../../../Unreal Project/Gauded_By_Demons/Content/Game_BP/Level_1/L1_Character.uasset" SILENT=true
+[2022.08.26-20.05.57:593][768]LogSavePackage: Moving '../../../../../../Unreal Project/Gauded_By_Demons/Saved/L1_CharacterD3B2F33244A90D70716FDBBFEAC6CC41.tmp' to '../../../../../../Unreal Project/Gauded_By_Demons/Content/Game_BP/Level_1/L1_Character.uasset'
+[2022.08.26-20.05.57:613][768]AssetCheck: New page: Asset Save: L1_Character
+[2022.08.26-20.05.57:613][768]LogContentValidation: Display: Validating Blueprint /Game/Game_BP/Level_1/L1_Character.L1_Character
+[2022.08.26-20.06.26:224][585]BlueprintLog: New page: Compile BPC_Movement
+[2022.08.26-20.06.26:287][585]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2022.08.26-20.06.27:652][655]LogSavePackage: Moving '../../../../../../Unreal Project/Gauded_By_Demons/Saved/BPC_Movement0BC432BF46CC60A6ACF669874040172C.tmp' to '../../../../../../Unreal Project/Gauded_By_Demons/Content/Blueprints/BluePrintComponent/BPC_Movement.uasset'
+[2022.08.26-20.06.27:670][655]AssetCheck: New page: Asset Save: BPC_Movement
+[2022.08.26-20.06.27:670][655]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BluePrintComponent/BPC_Movement.BPC_Movement
+[2022.08.26-20.06.28:680][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_BP/Level_1/L1_Character" FILE="../../../../../../Unreal Project/Gauded_By_Demons/Content/Game_BP/Level_1/L1_Character.uasset" SILENT=true
+[2022.08.26-20.06.28:707][710]LogSavePackage: Moving '../../../../../../Unreal Project/Gauded_By_Demons/Saved/L1_CharacterBCC6269641182703E571BAB08188A5F0.tmp' to '../../../../../../Unreal Project/Gauded_By_Demons/Content/Game_BP/Level_1/L1_Character.uasset'
+[2022.08.26-20.06.28:723][710]AssetCheck: New page: Asset Save: L1_Character
+[2022.08.26-20.06.28:723][710]LogContentValidation: Display: Validating Blueprint /Game/Game_BP/Level_1/L1_Character.L1_Character
+[2022.08.26-20.06.31:655][884]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.26-20.06.31:660][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.26-20.06.31:660][884]PIE: New page: PIE session: L1 (Aug 26, 2022, 12:06:31 PM)
+[2022.08.26-20.06.31:660][884]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L1
+[2022.08.26-20.06.31:662][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001805s)
+[2022.08.26-20.06.31:663][884]LogAIModule: Creating AISystem for world L1
+[2022.08.26-20.06.31:663][884]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2022.08.26-20.06.31:663][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L1.L1 to /Game/Maps/UEDPIE_0_L1.L1 (0.002974s)
+[2022.08.26-20.06.31:694][884]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.08.26-20.06.31:695][884]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.08.26-20.06.31:695][884]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.26-20.06.31:695][884]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.26-20.06.31:695][884]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.26-20.06.31:695][884]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.26-20.06.31:695][884]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.26-20.06.31:695][884]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.26-20.06.31:695][884]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.26-20.06.31:695][884]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.26-20.06.31:696][884]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.26-20.06.31:696][884]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.26-20.06.31:696][884]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.26-20.06.31:696][884]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.26-20.06.31:699][884]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.26-20.06.31:699][884]LogAudioMixer: Display: 1: FrontRight
+[2022.08.26-20.06.31:711][884]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.08.26-20.06.31:711][884]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.26-20.06.31:711][884]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.26-20.06.31:711][884]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.26-20.06.31:712][884]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.26-20.06.31:712][884]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.26-20.06.31:712][884]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.26-20.06.31:713][884]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.26-20.06.31:713][884]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.26-20.06.31:713][884]LogInit: FAudioDevice initialized.
+[2022.08.26-20.06.31:713][884]LogAudio: Display: Audio Device (ID: 9) registered with world 'L1'.
+[2022.08.26-20.06.31:718][884]LogLoad: Game class is 'L1_GameMode_C'
+[2022.08.26-20.06.31:720][884]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 60) at 2022.08.26-16.06.31
+[2022.08.26-20.06.31:720][884]LogWorld: Bringing up level for play took: 0.000984
+[2022.08.26-20.06.31:720][884]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.08.26-20.06.31:723][884]PIE: Server logged in
+[2022.08.26-20.06.31:723][884]PIE: Play in editor total start time 0.064 seconds.
+[2022.08.26-20.06.49:597][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.26-20.06.49:597][954]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L1
+[2022.08.26-20.06.49:597][954]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.08.26-20.06.49:598][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.26-20.06.49:607][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.26-20.06.49:623][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.26-20.06.49:648][954]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.26-20.06.49:649][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.26-20.06.49:650][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.26-20.06.49:651][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.26-20.06.49:655][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.08.26-20.06.49:678][955]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.08.26-20.09.08:947][787]BlueprintLog: New page: Compile BPC_Movement
+[2022.08.26-20.09.09:015][787]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.08.26-20.09.09:660][815]LogSavePackage: Moving '../../../../../../Unreal Project/Gauded_By_Demons/Saved/BPC_MovementE79D464144E23E73327F55AB06F49850.tmp' to '../../../../../../Unreal Project/Gauded_By_Demons/Content/Blueprints/BluePrintComponent/BPC_Movement.uasset'
+[2022.08.26-20.09.09:679][815]AssetCheck: New page: Asset Save: BPC_Movement
+[2022.08.26-20.09.09:679][815]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BluePrintComponent/BPC_Movement.BPC_Movement
+[2022.08.26-20.12.59:471][604]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2022.08.26-20.12.59:473][604]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L1' took 0.037
+[2022.08.26-20.12.59:474][604]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BluePrintComponent/BPC_Movement] ([2] browsable assets)...
+[2022.08.26-20.12.59:474][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BluePrintComponent/BPC_Movement]
+[2022.08.26-20.12.59:500][604]LogSavePackage: Moving '../../../../../../Unreal Project/Gauded_By_Demons/Saved/BPC_Movement_Auto571FDB5754ED73C936CF38A8FF14FD674.tmp' to '../../../../../../Unreal Project/Gauded_By_Demons/Saved/Autosaves/Game/Blueprints/BluePrintComponent/BPC_Movement_Auto5.uasset'
+[2022.08.26-20.12.59:501][604]LogFileHelpers: Auto-saving content packages took 0.028
+[2022.08.26-20.13.45:790][453]LogEditorTransaction: Undo Move Node
+[2022.08.26-20.14.32:123][890]BlueprintLog: New page: Compile BPC_Movement
+[2022.08.26-20.14.32:186][890]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2022.08.26-20.14.32:715][911]LogSavePackage: Moving '../../../../../../Unreal Project/Gauded_By_Demons/Saved/BPC_Movement3FE19AE64699AA1F6ADF0281647DCCFB.tmp' to '../../../../../../Unreal Project/Gauded_By_Demons/Content/Blueprints/BluePrintComponent/BPC_Movement.uasset'
+[2022.08.26-20.14.32:731][911]AssetCheck: New page: Asset Save: BPC_Movement
+[2022.08.26-20.14.32:732][911]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BluePrintComponent/BPC_Movement.BPC_Movement
+[2022.08.26-20.14.34:046][982]BlueprintLog: New page: Compile L1_Character
+[2022.08.26-20.14.34:123][982]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.08.26-20.14.34:501][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_BP/Level_1/L1_Character" FILE="../../../../../../Unreal Project/Gauded_By_Demons/Content/Game_BP/Level_1/L1_Character.uasset" SILENT=true
+[2022.08.26-20.14.34:530][998]LogSavePackage: Moving '../../../../../../Unreal Project/Gauded_By_Demons/Saved/L1_CharacterB2C730B4430F497067A3DFA56AFAD96C.tmp' to '../../../../../../Unreal Project/Gauded_By_Demons/Content/Game_BP/Level_1/L1_Character.uasset'
+[2022.08.26-20.14.34:552][998]AssetCheck: New page: Asset Save: L1_Character
+[2022.08.26-20.14.34:552][998]LogContentValidation: Display: Validating Blueprint /Game/Game_BP/Level_1/L1_Character.L1_Character
